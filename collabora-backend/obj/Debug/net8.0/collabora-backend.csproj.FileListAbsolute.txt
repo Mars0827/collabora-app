@@ -1,0 +1,79 @@
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\appsettings.json
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\collabora-backend.exe
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\collabora-backend.deps.json
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\collabora-backend.runtimeconfig.json
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\collabora-backend.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\collabora-backend.pdb
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Owin.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.csproj.AssemblyReference.cache
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.AssemblyInfoInputs.cache
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.AssemblyInfo.cs
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.csproj.CoreCompileInputs.cache
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\staticwebassets\msbuild.collabora-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\staticwebassets\msbuild.build.collabora-backend.props
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.collabora-backend.props
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.collabora-backend.props
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\scopedcss\bundle\collabora-backend.styles.css
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabor.6A2FA9C4.Up2Date
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\refint\collabora-backend.dll
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.pdb
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\collabora-backend.genruntimeconfig.cache
+C:\Users\keiru\Documents\Programs\appdev\collabora-backend\obj\Debug\net8.0\ref\collabora-backend.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\appsettings.json
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\collabora-backend.exe
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\collabora-backend.deps.json
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\collabora-backend.runtimeconfig.json
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\collabora-backend.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\collabora-backend.pdb
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Microsoft.Owin.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Microsoft.Owin.Security.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Owin.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.csproj.AssemblyReference.cache
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.AssemblyInfoInputs.cache
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.AssemblyInfo.cs
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.csproj.CoreCompileInputs.cache
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.sourcelink.json
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\staticwebassets\msbuild.collabora-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\staticwebassets\msbuild.build.collabora-backend.props
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.collabora-backend.props
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.collabora-backend.props
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\scopedcss\bundle\collabora-backend.styles.css
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabor.6A2FA9C4.Up2Date
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\refint\collabora-backend.dll
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.pdb
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\collabora-backend.genruntimeconfig.cache
+C:\Users\Mars\Documents\3rd Year\CSIT321\Collabora\collabora-backend\obj\Debug\net8.0\ref\collabora-backend.dll

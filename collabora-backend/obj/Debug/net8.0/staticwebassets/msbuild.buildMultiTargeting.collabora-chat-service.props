@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\collabora-chat-service.props" />
+</Project>
