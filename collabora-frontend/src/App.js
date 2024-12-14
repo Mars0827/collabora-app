@@ -1,60 +1,44 @@
-import { HubConnectionBuilder, LogLevel } from '@microsoft/signalr';
-import { useState } from 'react';
-import './App.css';
-import WaitingRoom from './components/waitingroom';
-import ChatRoom from './components/ChatRoom';
+import React from "react";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  useLocation,
+} from "react-router-dom";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Home from "./pages/HomePage";
+import About from "./pages/LoginPage";
+import Contact from "./pages/RegisterPage";
+import Chatroom from "./pages/ChatroomPage";
 
-function App() {
-  const[conn, setConnection] = useState(null);
-  const [messages, setMessages] = useState([]);
+const App = () => {
+  const location = useLocation(); // Get the current route
 
-  const joinChatRoom = async (username, chatroom) => {
-    try {
-      const conn = new HubConnectionBuilder()
-              .withUrl('http://localhost:5141/chat')
-              .configureLogging(LogLevel.Information)
-              .build();
-      conn.on("JoinSpecificChatRoom", (username, msg) => {
-        console.log("msg: ", msg); // Debug message
-        setMessages((prevMessages) => [...prevMessages, { username, msg }]);
-      });
-
-      conn.on("ReceiveSpecificMessage", (username, msg) => {
-        setMessages(messages => [...messages, {username,msg}]);
-      })
-      
-
-      await conn.start();
-      await conn.invoke("JoinSpecificChatRoom", {username, chatroom});
-
-      setConnection(conn)
-    } catch(e){
-      console.log(e);
-    }
-  }
-
-  const sendMessage = async(message) => {
-    try {
-      await conn.invoke("SendMessage", message);
-      
-    } catch (e){
-      console.log(e);
-    }
-  }
+  const hideFooterRoutes = ["/chatroom"]; // Routes where the footer should be hidden
+  const shouldHideFooter = hideFooterRoutes.includes(location.pathname);
 
   return (
-    <div>
+    <div className="bg-black h-full">
+      <Header />
       <main>
-        <div>
-          <h1>Welcome chat app nigga</h1>
-        </div>
-        {!conn ? 
-          <WaitingRoom joinChatRoom={joinChatRoom}></WaitingRoom>
-          : <ChatRoom messages={messages} sendMessage={sendMessage}></ChatRoom>
-        }
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/login" element={<About />} />
+          <Route path="/register" element={<Contact />} />
+          <Route path="/chatroom" element={<Chatroom />} />
+        </Routes>
       </main>
+      {!shouldHideFooter && <Footer />} {/* Conditionally render the footer */}
     </div>
   );
-}
+};
 
-export default App;
+// this is for hiding the footer when the user is in the chatroom page
+const AppWithRouter = () => (
+  <Router>
+    <App />
+  </Router>
+);
+
+export default AppWithRouter;
