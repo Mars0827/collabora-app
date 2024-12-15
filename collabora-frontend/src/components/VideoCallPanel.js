@@ -23,12 +23,10 @@ const VideoCallPanel = ({ name = "User" }) => {
           <div className="bg-slate-400 h-52"></div>
         </div>
       </div>
-      <div className="p-4 px-6 flex justify-between border border-x-0 border-y-grayBorder">
+      <div className="p-3 px-6 flex justify-between border border-x-0 border-y-grayBorder">
         <div className="flex space-x-4">
-          <div className="h-10 w-10 bg-slate-300 rounded-full"></div>
           <div className="flex flex-col justify-center">
-            <p className="font-medium text-sm">{name}</p>
-            <p className="font-thin text-grayFont text-xs">Online</p>
+            <p className="font-medium text-sm px-2">{name}</p>
           </div>
         </div>
         <div className="flex space-x-4 items-center">
@@ -41,7 +39,7 @@ const VideoCallPanel = ({ name = "User" }) => {
             <img
               src={isMicOn ? MicOn : MicOff}
               alt={isMicOn ? "Microphone On" : "Microphone Off"}
-              className="h-6 w-6"
+              className="h-5 w-5"
             />
           </button>
           {/* Headphone Toggle */}
@@ -53,7 +51,7 @@ const VideoCallPanel = ({ name = "User" }) => {
             <img
               src={isHeadphoneOn ? HeadphoneOn : HeadphoneOff}
               alt={isHeadphoneOn ? "Headphone On" : "Headphone Off"}
-              className="h-6 w-6"
+              className="h-5 w-5"
             />
           </button>
           {/* Video Toggle */}
@@ -65,7 +63,7 @@ const VideoCallPanel = ({ name = "User" }) => {
             <img
               src={isVideoOn ? VideoOn : VideoOff}
               alt={isVideoOn ? "Video On" : "Video Off"}
-              className="h-6 w-6"
+              className="h-5 w-5"
             />
           </button>
         </div>

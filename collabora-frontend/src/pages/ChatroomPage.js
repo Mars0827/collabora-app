@@ -15,7 +15,7 @@ const ChatroomPage = () => {
       }}
     >
       <div className="flex h-full">
-        <div className="w-1/4 h-full flex flex-col justify-center">
+        <div className="w-1/4 h-full flex flex-col justify-end">
           <VideoCallPanel name="Alec"/>
           <VideoCallPanel name="User"/>
         </div>

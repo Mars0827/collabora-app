@@ -9,8 +9,11 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/HomePage";
 import About from "./pages/LoginPage";
-import Contact from "./pages/RegisterPage";
+import Register from "./pages/RegisterPage";
 import Chatroom from "./pages/ChatroomPage";
+import Match from "./pages/MatchPage";
+import Sessions from "./pages/SessionsPage";
+import Contact from "./pages/ContactPage";
 
 const App = () => {
   const location = useLocation(); // Get the current route
@@ -25,8 +28,11 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/login" element={<About />} />
-          <Route path="/register" element={<Contact />} />
+          <Route path="/register" element={<Register />} />
+          <Route path="/match" element={<Match />} />
           <Route path="/chatroom" element={<Chatroom />} />
+          <Route path="/sessions" element={<Sessions />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
       {!shouldHideFooter && <Footer />} {/* Conditionally render the footer */}

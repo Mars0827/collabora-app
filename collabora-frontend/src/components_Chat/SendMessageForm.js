@@ -1,4 +1,6 @@
 import { useState } from "react";
+import React from "react";
+import PropTypes from "prop-types";
 
 const SendMessageForm = ({ sendMessage }) => {
     const [msg, setMessage] = useState("");
@@ -34,6 +36,9 @@ const SendMessageForm = ({ sendMessage }) => {
             </button>
         </form>
     );
+};
+SendMessageForm.propTypes = {
+    sendMessage: PropTypes.func.isRequired,
 };
 
 export default SendMessageForm;

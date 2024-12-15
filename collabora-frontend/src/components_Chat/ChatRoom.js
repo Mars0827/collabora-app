@@ -1,3 +1,5 @@
+import React from 'react';
+import PropTypes from 'prop-types';
 import MessageContainer from './MessageContainer';
 import SendMessageForm from './SendMessageForm';
 
@@ -16,5 +18,9 @@ const ChatRoom = ({messages, sendMessage}) => {
             </div>
         </div>
     }
+ChatRoom.propTypes = {
+    messages: PropTypes.array.isRequired,
+    sendMessage: PropTypes.func.isRequired
+};
 
 export default ChatRoom;

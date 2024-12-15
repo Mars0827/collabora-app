@@ -1,3 +1,6 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
 const MessageContainer = ({ messages }) => {
     return (
         <div>
@@ -12,6 +15,15 @@ const MessageContainer = ({ messages }) => {
             </ul>
         </div>
     );
+};   
+
+MessageContainer.propTypes = {
+    messages: PropTypes.arrayOf(
+        PropTypes.shape({
+            username: PropTypes.string.isRequired,
+            msg: PropTypes.string.isRequired,
+        })
+    ).isRequired,
 };
 
 export default MessageContainer;

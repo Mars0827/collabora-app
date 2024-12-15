@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 
 const WaitingRoom = ({ joinChatRoom }) => {
     const [username, setUsername] = useState('');
@@ -47,6 +49,9 @@ const WaitingRoom = ({ joinChatRoom }) => {
             </div>
         </form>
     );
+};
+WaitingRoom.propTypes = {
+    joinChatRoom: PropTypes.func.isRequired,
 };
 
 export default WaitingRoom;
